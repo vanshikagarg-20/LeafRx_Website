@@ -14,7 +14,7 @@ const Footer = () => {
             <p>
               © {new Date().getFullYear()} LeafRx. All rights reserved. | 
               <a 
-                href="mailto:support@leafrx.com" 
+                href="mailto:leafrx.care@gmail.com" 
                 className="text-green-100 hover:text-white ml-1 no-underline"
               >
                 Contact Support
