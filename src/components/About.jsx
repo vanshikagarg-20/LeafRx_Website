@@ -1,39 +1,6 @@
 // import React from 'react';
  import Image from "../assets/leafrix 2-2.png";
 
-// const About = () => {
-//   return (
-//     <section id="about" className="py-20 bg-white">
-//       <div className="max-w-4xl mx-auto px-4 text-center">
-//         <h2 className="text-4xl font-bold text-gray-800 mb-6">
-//           Instant Plant Detection & Smart Care Scheduling
-//         </h2>
-
-//         <p className="text-gray-600 text-lg leading-relaxed mb-4">
-//           Transforming home gardening with real-time plant recognition and intelligent care scheduling.
-//         </p>
-//       </div>
-
-//       {/* Full-width paragraph below */}
-//       <div className="max-w-7xl mx-auto px-6 mt-6">
-//         <p className="text-gray-600 text-lg leading-relaxed text-left mb-10">
-//           LeafRx is here! We’re excited to introduce LeafRx, a smart plant identification and care management app designed to transform the way you grow and care for your plants. This first release is packed with powerful features to help plant lovers identify species instantly and follow structured, stage-based care routines with ease.
-//         </p>
-//       </div>
-
-//       <div className="flex justify-center">
-//         <img
-//           src={image}
-//           alt="About LeafRx"
-//           className="w-full max-w-md rounded-xl shadow-lg"
-//         />
-//       </div>
-//     </section>
-//   );
-// };
-
-// export default About;
-
 import React from 'react';
 import { Leaf, Zap, Sun, CloudRain } from 'lucide-react';
 
