@@ -36,7 +36,7 @@ const Features = () => {
                 Explore Features
               </a>
               <a
-                href="#contact"
+                href="https://apps.apple.com/in/app/leafrx/id6744914144"
                 className="px-8 py-3 bg-green-800 text-white rounded-lg font-medium hover:bg-green-900 transition duration-300"
               >
                 Download Now
